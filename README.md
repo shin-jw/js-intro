@@ -1,6 +1,6 @@
 # Meet SHIN
 
-Hello World! Throught I might swing by and introduce myself. I've recently just turned 30 and have had 
+Hello World! Throught I might swing by and introduce myself. I've recently just turned 30 and I have some things I would like to share with you all.
 
 The purpose of this project is mainly to be self-exploratory. I'd likely use this repository first off as a quick primer into who I am, and supplemented by a blog.
 
